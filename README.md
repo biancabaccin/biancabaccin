@@ -96,3 +96,11 @@ Let's Connect!
   style="padding-right: 10px"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
   />
+
+  ICONS 2
+
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,js,react,nodejs,express,mongodb,html,css,git,github,figma,mysql" />
+  </a>
+</p>
