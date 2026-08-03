@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Bianca Baccin
 
-**`Desenvolvedora FullStack`**
+**`FullStack Developer`**
 
 I'm a Full-Stack Software Engineer passionate about building modern, responsive, and user-focused web applications. I enjoy transforming ideas into scalable, maintainable solutions while continuously learning new technologies and best practices.
 
@@ -19,6 +19,7 @@ Let's Connect!
   <a href="https://skillicons.dev">
     <img 
       align="left"
+      width="300px"
       src="https://skillicons.dev/icons?i=git,js,react,nodejs,express,mongodb,html,css,git,github,figma,mysql" />
   </a>
 </p>
