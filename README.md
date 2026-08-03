@@ -17,6 +17,9 @@ Let's Connect!
 ### ⚡ Tech Stack
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,js,react,nodejs,express,mongodb,html,css,git,github,figma,mysql" />
+    <img 
+      align="left"
+      width="30px"
+      src="https://skillicons.dev/icons?i=git,js,react,nodejs,express,mongodb,html,css,git,github,figma,mysql" />
   </a>
 </p>
