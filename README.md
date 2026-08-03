@@ -19,7 +19,7 @@ Let's Connect!
   <a href="https://skillicons.dev">
     <img 
       align="left"
-      width="300px"
+      width="500px"
       src="https://skillicons.dev/icons?i=git,js,react,nodejs,express,mongodb,html,css,git,github,figma,mysql" />
   </a>
 </p>
